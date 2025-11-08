@@ -80,7 +80,8 @@ npm run dev
 ### Demo
 
 🎥 **Watch the demo video:**
-👉 [Loom / YouTube unlisted link here](https://your-demo-link.com)
+👉 https://www.loom.com/share/e74f9dd4275b4d0d977b562f6d24669c
+
 
 ### Repository
 
